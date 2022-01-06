@@ -1,5 +1,5 @@
 # A novel fusion method based on dynamic threshold neural P systems and nonsubsampled contourlet transform for multi-modality medical images
-[Bo Li]([MorvanLi (Bo Li) (github.com)](https://github.com/MorvanLi/)), Peng Hong*, Wang Jun  
+[Bo Li](https://github.com/MorvanLi/), Peng Hong*, Wang Jun  
 Signal Processing (IF:4.662), Volume: 178,  January 2021  
 [paper](https://doi.org/10.1016/j.sigpro.2020.107793)  
 
