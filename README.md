@@ -26,8 +26,6 @@ If you have any question about this code, feel free to reach me(morvanli@foxmail
 ## Citation
 
 ````
-
-```
 @article{LI2021107793,
 title = {A novel fusion method based on dynamic threshold neural P systems and nonsubsampled contourlet transform for multi-modality medical images},
 journal = {Signal Processing},
@@ -37,7 +35,6 @@ year = {2021},
 issn = {0165-1684},
 year={2021},
 publisher={Elsevier}
-```
 ````
 
 ## Related Work
